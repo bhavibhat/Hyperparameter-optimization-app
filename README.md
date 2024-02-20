@@ -10,7 +10,7 @@ Features
 - Compare the performance of different hyperparameter configurations.
 - Export optimized model for further use.
 
-  Technologies Used
+Technologies Used
 
 - Streamlit: For building the web application.
 - Python: For backend logic and machine learning algorithms.
