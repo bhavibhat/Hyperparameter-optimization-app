@@ -1,3 +1,4 @@
+
 This project is a web application built with Streamlit and Python for hyperparameter optimization. 
 It provides a user-friendly interface to explore different machine learning models and optimize their hyperparameters efficiently.
 
@@ -18,3 +19,7 @@ Technologies Used
 - Plotly: For interactive visualization of optimization results.
 - Other Python libraries as necessary.
 
+![internship](https://github.com/bhavibhat/Hyperparameter-optimization-app/assets/140182551/b3311d30-17af-4d45-aedb-fee6e6862afb)
+![interns4](https://github.com/bhavibhat/Hyperparameter-optimization-app/assets/140182551/90fe05db-29d6-4de7-99ad-b49790a0c491)
+![interns2](https://github.com/bhavibhat/Hyperparameter-optimization-app/assets/140182551/effb9606-7edc-49d7-80e0-9c68b7beb499)
+![interns3](https://github.com/bhavibhat/Hyperparameter-optimization-app/assets/140182551/db5c03c9-996e-4af1-b08d-fe6b9cb8cf46)
